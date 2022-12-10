@@ -38,6 +38,7 @@ newModal.addEventListener("hidden.bs.modal", function () {
         question.innerHTML = "Shweetttt, You agree to be my discord Kitten ?"
         myModal.show();
     } else if (step === 3) {
-        question.innerHTML = ""
+        question.innerHTML = "too ezzzzz"
+        myModal.show();
     }
 });
